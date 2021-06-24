@@ -112,9 +112,9 @@ function moveEnemy() {
 			carRect.right >= enemyRect.left && 
 			carRect.left <= enemyRect.right &&
 			carRect.bottom >= enemyRect.top) {
-			setting.start = false;
-			start.classList.remove('hide');
-			start.style.top = start.offsetHeight;
+				setting.start = false;
+				start.classList.remove('hide');
+				start.style.top = start.offsetHeight;
 		}
 		item.y += setting.speed/2;
 		item.style.top = item.y + 'px';
