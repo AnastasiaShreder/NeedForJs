@@ -1,8 +1,9 @@
 # NeedForJs - учебный проект Glo Academy
-## Проект выполнила Шредер Анастасия
 
-В проекте используются:
-- HTML
-- CSS
-- JavaScript
+### Просмотр текущей версии
+https://anastasiashreder.github.io/NeedForJs/
+
+### Языки, технологии и инструменты
+* HTML/CSS
+* JavaScript
 
